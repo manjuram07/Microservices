@@ -1,0 +1,11 @@
+1734511257006	Move package
+1734511286028	Delete element
+1734511593974	Rename type 'AddressDTO'
+1734511610213	Rename type 'AddressEntity'
+1734511624815	Rename type 'AddressRepository'
+1734511639997	Rename type 'AddressService'
+1734511652958	Rename type 'AddressServiceImpl'
+1734514469875	Extract local variable 'byId'
+1734514646059	Extract local variable 'employee'
+1734516195449	Copy compilation unit
+1734516925806	Delete element

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;employee&apos; from expression &apos;employeeService.getEmployee(1)&apos;&#x0D;&#x0A;- Original project: &apos;Employee-services&apos;&#x0D;&#x0A;- Variable name: &apos;employee&apos;&#x0D;&#x0A;- Destination method: &apos;com.EMS.EmployeeServicesApplicationTests.testGetEmployee()&apos;&#x0D;&#x0A;- Variable expression: &apos;employeeService.getEmployee(1)&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;employee&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;com.EMS{EmployeeServicesApplicationTests.java" name="employee" replace="true" replaceAllInThisFile="false" selection="1527 30" stamp="1734955412371" varType="false" version="1.0"/>
+</session>

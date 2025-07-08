@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;save&apos; from expression &apos;productRepository.save(product)&apos;&#x0D;&#x0A;- Original project: &apos;EComerece&apos;&#x0D;&#x0A;- Variable name: &apos;save&apos;&#x0D;&#x0A;- Destination method: &apos;com.insight7.e_comerece.service.ProductService.create(...)&apos;&#x0D;&#x0A;- Variable expression: &apos;productRepository.save(product)&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;save&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.insight7.e_comerece.service{ProductService.java" name="save" replace="true" replaceAllInThisFile="false" selection="1246 31" stamp="1738236736134" varType="false" version="1.0"/>
+</session>

@@ -1,0 +1,12 @@
+1734511244246	Move package
+1734511296511	Copy package
+1734511309374	Copy package
+1734511557185	Copy package
+1734511565419	Copy package
+1734511573841	Copy package
+1734511750559	Copy compilation unit
+1734511899176	Copy compilation unit
+1734516163751	Extract local variable 'byId'
+1734516210397	Rename type 'EmployeeConfig'
+1734516300583	Extract local variable 'map'
+1734516326779	Extract local variable 'addressByEmployeeId'
